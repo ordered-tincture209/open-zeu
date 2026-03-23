@@ -1,0 +1,14 @@
+{
+  "backlog": [
+    {
+      "id": 4001,
+      "title": "Use PM4 for ops work or remove it",
+      "owner": "pm4",
+      "priority": "low",
+      "status": "scoped",
+      "notes": "Done = PM4 is either renamed for real work or removed cleanly.",
+      "rd": "rds/rd-ops-or-remove.md"
+    }
+  ],
+  "archive": []
+}

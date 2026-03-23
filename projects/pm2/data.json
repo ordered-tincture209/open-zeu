@@ -1,0 +1,14 @@
+{
+  "backlog": [
+    {
+      "id": 2001,
+      "title": "Decide if you need PM2 or want to rename it",
+      "owner": "pm2",
+      "priority": "medium",
+      "status": "scoped",
+      "notes": "Done = PM2 is either renamed to something real or deleted.",
+      "rd": "rds/rd-rename-or-delete.md"
+    }
+  ],
+  "archive": []
+}

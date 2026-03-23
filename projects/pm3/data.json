@@ -1,0 +1,14 @@
+{
+  "backlog": [
+    {
+      "id": 3001,
+      "notes": "Done = PM3 is either repurposed for real work or removed.",
+      "owner": "pm3",
+      "priority": "low",
+      "rd": "rds/rd-sandbox-or-remove.md",
+      "status": "in_progress",
+      "title": "Use PM3 as your sandbox lane or remove it"
+    }
+  ],
+  "archive": []
+}
